@@ -1,3 +1,4 @@
+// Requires Bulma framework
 const createAutoComplete = ({
   root,
   renderOption,
